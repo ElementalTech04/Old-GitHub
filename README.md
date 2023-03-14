@@ -1,6 +1,8 @@
 # My Previous GitHub Account
 This GitHub account was created during my early years as a programmer. While I no longer actively use this account, it contains a lot of code that I wrote while learning and exploring new technologies.
 
+Click here to view: https://github.com/ghost1497 
+
 ## Projects
 Here are some of the projects that I worked on while using this GitHub account:
 
